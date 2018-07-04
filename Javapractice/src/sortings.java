@@ -28,6 +28,8 @@ System.out.println("The alphabet order is "+t);
 
 public void alphasorting(char[] k)
 {
+	//this is my second commit
+	//this is my second commit
 	int size=k.length;
 
 	Set<String> se=new HashSet<String>();
